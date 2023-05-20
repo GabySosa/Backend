@@ -5,7 +5,6 @@ com\portfolio\sosasilvia\Dto\dtoPersona.class
 com\portfolio\sosasilvia\Security\Repository\iRolRepository.class
 com\portfolio\sosasilvia\Repository\REducacion.class
 com\portfolio\sosasilvia\Repository\RExperiencia.class
-com\portfolio\sosasilvia\Security\Service\Shys.class
 com\portfolio\sosasilvia\Security\Dto\NuevoUsuario.class
 com\portfolio\sosasilvia\Security\Enums\RolNombre.class
 com\portfolio\sosasilvia\Controller\CHys.class
@@ -14,6 +13,8 @@ com\portfolio\sosasilvia\Service\ImpPersonaService.class
 com\portfolio\sosasilvia\Security\Entity\Rol.class
 com\portfolio\sosasilvia\Security\MainSecurity.class
 com\portfolio\sosasilvia\Security\Repository\iUsuarioRepository.class
+com\portfolio\sosasilvia\Service\Shys.class
+com\portfolio\sosasilvia\Service\SExperiencia.class
 com\portfolio\sosasilvia\Security\Dto\LoginUsuario.class
 com\portfolio\sosasilvia\Security\Controller\AuthController.class
 com\portfolio\sosasilvia\Security\Entity\Usuario.class
@@ -27,7 +28,6 @@ com\portfolio\sosasilvia\Dto\dtoEducacion.class
 com\portfolio\sosasilvia\Dto\dtoHys.class
 com\portfolio\sosasilvia\Entity\Experiencia.class
 com\portfolio\sosasilvia\Security\jwt\JwtProvider.class
-com\portfolio\sosasilvia\Security\Service\SExperiencia.class
 com\portfolio\sosasilvia\SosasilviaApplication.class
 com\portfolio\sosasilvia\Security\Entity\UsuarioPrincipal.class
 com\portfolio\sosasilvia\Security\Dto\JwtDto.class

@@ -7,7 +7,7 @@ package com.portfolio.sosasilvia.Controller;
 import com.portfolio.sosasilvia.Dto.dtoHys;
 import com.portfolio.sosasilvia.Entity.hys;
 import com.portfolio.sosasilvia.Security.Controller.Mensaje;
-import com.portfolio.sosasilvia.Security.Service.Shys;
+import com.portfolio.sosasilvia.Service.Shys;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

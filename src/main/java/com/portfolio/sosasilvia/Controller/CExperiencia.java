@@ -7,7 +7,7 @@ package com.portfolio.sosasilvia.Controller;
 import com.portfolio.sosasilvia.Dto.dtoExperiencia;
 import com.portfolio.sosasilvia.Entity.Experiencia;
 import com.portfolio.sosasilvia.Security.Controller.Mensaje;
-import com.portfolio.sosasilvia.Security.Service.SExperiencia;
+import com.portfolio.sosasilvia.Service.SExperiencia;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
