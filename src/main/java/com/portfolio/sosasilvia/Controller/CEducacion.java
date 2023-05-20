@@ -6,7 +6,7 @@ package com.portfolio.sosasilvia.Controller;
 
 import com.portfolio.sosasilvia.Dto.dtoEducacion;
 import com.portfolio.sosasilvia.Security.Controller.Mensaje;
-import com.portfolio.sosasilvia.Security.Entity.Educacion;
+import com.portfolio.sosasilvia.Entity.Educacion;
 import com.portfolio.sosasilvia.Service.Seducacion;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;

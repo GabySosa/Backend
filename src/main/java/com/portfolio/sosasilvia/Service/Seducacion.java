@@ -5,7 +5,7 @@
 package com.portfolio.sosasilvia.Service;
 
 import com.portfolio.sosasilvia.Repository.REducacion;
-import com.portfolio.sosasilvia.Security.Entity.Educacion;
+import com.portfolio.sosasilvia.Entity.Educacion;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

@@ -31,9 +31,9 @@ com\portfolio\sosasilvia\Security\jwt\JwtProvider.class
 com\portfolio\sosasilvia\SosasilviaApplication.class
 com\portfolio\sosasilvia\Security\Entity\UsuarioPrincipal.class
 com\portfolio\sosasilvia\Security\Dto\JwtDto.class
+com\portfolio\sosasilvia\Entity\Educacion.class
 com\portfolio\sosasilvia\Dto\dtoExperiencia.class
 com\portfolio\sosasilvia\Service\Seducacion.class
-com\portfolio\sosasilvia\Security\Entity\Educacion.class
 com\portfolio\sosasilvia\Security\Service\UserDetailsImpl.class
 com\portfolio\sosasilvia\Security\jwt\JwtTokenFilter.class
 com\portfolio\sosasilvia\Controller\CEducacion.class

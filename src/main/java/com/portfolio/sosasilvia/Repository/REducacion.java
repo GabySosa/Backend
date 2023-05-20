@@ -4,7 +4,7 @@
  */
 package com.portfolio.sosasilvia.Repository;
 
-import com.portfolio.sosasilvia.Security.Entity.Educacion;
+import com.portfolio.sosasilvia.Entity.Educacion;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

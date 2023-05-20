@@ -2,6 +2,7 @@ D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Si
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Security\jwt\JwtProvider.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Dto\dtoPersona.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Dto\dtoEducacion.java
+D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Entity\Educacion.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Security\Controller\AuthController.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Security\Dto\JwtDto.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Security\Repository\iUsuarioRepository.java
@@ -34,6 +35,5 @@ D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Si
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Security\MainSecurity.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\SosasilviaApplication.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Controller\CHys.java
-D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Security\Entity\Educacion.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Repository\REducacion.java
 D:\Argentina programa\Proyecto Integrador Sosa Silvia\ProyectoIntegrador-Sosa-Silvia\ProyectoIntegrador_Sosa_Silvia\Backend\src\main\java\com\portfolio\sosasilvia\Entity\Persona.java
